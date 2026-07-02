@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -46,9 +47,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
