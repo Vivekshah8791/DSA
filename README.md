@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vivekshah8791/DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vivekshah8791/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1288-remove-covered-intervals](https://github.com/Vivekshah8791/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekshah8791/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekshah8791/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vivekshah8791/DSA/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vivekshah8791/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vivekshah8791/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
