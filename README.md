@@ -118,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vivekshah8791/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Vivekshah8791/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
