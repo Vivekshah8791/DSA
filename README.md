@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vivekshah8791/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Vivekshah8791/DSA/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
