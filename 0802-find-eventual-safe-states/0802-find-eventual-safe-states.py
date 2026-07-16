@@ -1,22 +1,26 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
         n=len(graph)
-        visited=[-1]*n
-        def dfs(node):
-            visited[node]=1
-            for neigh in graph[node]:
-                if visited[neigh]==1:
-                    return True
-                else:
-                    if visited[neigh]==-1:
-                        if dfs(neigh):
-                            return True
-            visited[node]=0
-            return False
-        ans=[]
+        newgraph = [[] for _ in range(n)]
+        indegree=[0]*n
+        for node in range(n):
+            for adjnode in graph[node]:
+                newgraph[adjnode].append(node)
+        for node in range(len(newgraph)):
+            for adjnode in newgraph[node]:
+                indegree[adjnode]+=1
+        queue=deque()
         for i in range(n):
-            if not dfs(i):
-                ans.append(i)
-        return ans
-        
+            if indegree[i]==0:
+                queue.append(i)
+        res=[]
+        while queue:
+            node=queue.popleft();
+            res.append(node)
 
+            for neigh in newgraph[node]:
+                indegree[neigh]-=1
+                if indegree[neigh]==0:
+                    queue.append(neigh)
+        res.sort()
+        return res
