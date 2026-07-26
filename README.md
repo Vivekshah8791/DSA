@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vivekshah8791/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vivekshah8791/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekshah8791/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vivekshah8791/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Vivekshah8791/DSA/tree/master/1288-remove-covered-intervals) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vivekshah8791/DSA/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Vivekshah8791/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekshah8791/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivekshah8791/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekshah8791/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivekshah8791/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivekshah8791/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
