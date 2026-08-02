@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Vivekshah8791/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekshah8791/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vivekshah8791/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Vivekshah8791/DSA/tree/master/1288-remove-covered-intervals) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekshah8791/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekshah8791/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vivekshah8791/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekshah8791/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekshah8791/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivekshah8791/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivekshah8791/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
