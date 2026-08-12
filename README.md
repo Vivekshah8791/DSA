@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Vivekshah8791/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekshah8791/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Vivekshah8791/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vivekshah8791/DSA/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/Vivekshah8791/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Vivekshah8791/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekshah8791/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vivekshah8791/DSA/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/Vivekshah8791/DSA/tree/master/0295-find-median-from-data-stream) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekshah8791/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -301,10 +304,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vivekshah8791/DSA/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Vivekshah8791/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/Vivekshah8791/DSA/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vivekshah8791/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Vivekshah8791/DSA/tree/master/0460-lfu-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Vivekshah8791/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
