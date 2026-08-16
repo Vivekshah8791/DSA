@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vivekshah8791/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vivekshah8791/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vivekshah8791/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vivekshah8791/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vivekshah8791/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Vivekshah8791/DSA/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vivekshah8791/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
