@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekshah8791/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekshah8791/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vivekshah8791/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Vivekshah8791/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekshah8791/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Vivekshah8791/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekshah8791/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vivekshah8791/DSA/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
