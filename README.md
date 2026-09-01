@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vivekshah8791/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vivekshah8791/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vivekshah8791/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/Vivekshah8791/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vivekshah8791/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Vivekshah8791/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vivekshah8791/DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Vivekshah8791/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vivekshah8791/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
