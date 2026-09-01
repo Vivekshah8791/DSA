@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Vivekshah8791/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vivekshah8791/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekshah8791/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vivekshah8791/DSA/tree/master/1260-shift-2d-grid) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0931-minimum-falling-path-sum](https://github.com/Vivekshah8791/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekshah8791/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Vivekshah8791/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekshah8791/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Vivekshah8791/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekshah8791/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekshah8791/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vivekshah8791/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
