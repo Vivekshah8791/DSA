@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivekshah8791/DSA/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Vivekshah8791/DSA/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Vivekshah8791/DSA/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Vivekshah8791/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vivekshah8791/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vivekshah8791/DSA/tree/master/0078-subsets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vivekshah8791/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vivekshah8791/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Vivekshah8791/DSA/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Vivekshah8791/DSA/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/Vivekshah8791/DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Vivekshah8791/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vivekshah8791/DSA/tree/master/0242-valid-anagram) |
