@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vivekshah8791/DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekshah8791/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekshah8791/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Vivekshah8791/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivekshah8791/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekshah8791/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vivekshah8791/DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekshah8791/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekshah8791/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekshah8791/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vivekshah8791/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vivekshah8791/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivekshah8791/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekshah8791/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekshah8791/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -562,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/0214-shortest-palindrome) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
