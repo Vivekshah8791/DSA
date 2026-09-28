@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivekshah8791/DSA/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Vivekshah8791/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vivekshah8791/DSA/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Vivekshah8791/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vivekshah8791/DSA/tree/master/0057-insert-interval) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vivekshah8791/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vivekshah8791/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Vivekshah8791/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vivekshah8791/DSA/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/Vivekshah8791/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vivekshah8791/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Vivekshah8791/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Vivekshah8791/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Vivekshah8791/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
@@ -609,4 +613,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vivekshah8791/DSA/tree/master/0139-word-break) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
