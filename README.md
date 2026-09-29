@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vivekshah8791/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0164-maximum-gap](https://github.com/Vivekshah8791/DSA/tree/master/0164-maximum-gap) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vivekshah8791/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Vivekshah8791/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Vivekshah8791/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vivekshah8791/DSA/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/Vivekshah8791/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Vivekshah8791/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Vivekshah8791/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Vivekshah8791/DSA/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivekshah8791/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Rolling Hash
 |  |
@@ -640,4 +643,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Vivekshah8791/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Vivekshah8791/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
