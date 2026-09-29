@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vivekshah8791/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Vivekshah8791/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vivekshah8791/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Vivekshah8791/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vivekshah8791/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Vivekshah8791/DSA/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/Vivekshah8791/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vivekshah8791/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivekshah8791/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vivekshah8791/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Vivekshah8791/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vivekshah8791/DSA/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Vivekshah8791/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vivekshah8791/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Trie
@@ -625,4 +629,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
