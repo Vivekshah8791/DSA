@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekshah8791/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekshah8791/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vivekshah8791/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1791-find-center-of-star-graph](https://github.com/Vivekshah8791/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vivekshah8791/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vivekshah8791/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekshah8791/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
