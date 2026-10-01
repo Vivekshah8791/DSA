@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vivekshah8791/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vivekshah8791/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vivekshah8791/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivekshah8791/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Vivekshah8791/DSA/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vivekshah8791/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vivekshah8791/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Vivekshah8791/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivekshah8791/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivekshah8791/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
