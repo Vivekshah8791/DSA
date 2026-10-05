@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Vivekshah8791/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekshah8791/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1765-map-of-highest-peak](https://github.com/Vivekshah8791/DSA/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivekshah8791/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivekshah8791/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivekshah8791/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekshah8791/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Vivekshah8791/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekshah8791/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Vivekshah8791/DSA/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vivekshah8791/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vivekshah8791/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Vivekshah8791/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Vivekshah8791/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekshah8791/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Vivekshah8791/DSA/tree/master/1765-map-of-highest-peak) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivekshah8791/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
