@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vivekshah8791/DSA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vivekshah8791/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Vivekshah8791/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivekshah8791/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivekshah8791/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vivekshah8791/DSA/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekshah8791/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vivekshah8791/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Vivekshah8791/DSA/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
