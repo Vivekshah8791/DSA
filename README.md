@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Vivekshah8791/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivekshah8791/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivekshah8791/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivekshah8791/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Vivekshah8791/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivekshah8791/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivekshah8791/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivekshah8791/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -751,10 +753,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Vivekshah8791/DSA/tree/master/0307-range-sum-query-mutable) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivekshah8791/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Vivekshah8791/DSA/tree/master/0307-range-sum-query-mutable) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivekshah8791/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
