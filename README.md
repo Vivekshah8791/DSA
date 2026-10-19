@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vivekshah8791/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Vivekshah8791/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekshah8791/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/Vivekshah8791/DSA/tree/master/0398-random-pick-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivekshah8791/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Vivekshah8791/DSA/tree/master/0460-lfu-cache) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vivekshah8791/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vivekshah8791/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Vivekshah8791/DSA/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivekshah8791/DSA/tree/master/0836-rectangle-overlap) |
@@ -827,8 +829,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Vivekshah8791/DSA/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Vivekshah8791/DSA/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
