@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Vivekshah8791/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vivekshah8791/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
+| [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivekshah8791/DSA/tree/master/0836-rectangle-overlap) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vivekshah8791/DSA/tree/master/0146-lru-cache) |
+| [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/Vivekshah8791/DSA/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vivekshah8791/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
@@ -821,4 +823,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekshah8791/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
