@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vivekshah8791/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivekshah8791/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Vivekshah8791/DSA/tree/master/0563-binary-tree-tilt) |
 | [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekshah8791/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivekshah8791/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vivekshah8791/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0563-binary-tree-tilt](https://github.com/Vivekshah8791/DSA/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vivekshah8791/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekshah8791/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivekshah8791/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vivekshah8791/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0563-binary-tree-tilt](https://github.com/Vivekshah8791/DSA/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vivekshah8791/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vivekshah8791/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -848,4 +851,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Vivekshah8791/DSA/tree/master/0398-random-pick-index) |
+## DP on Trees
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/Vivekshah8791/DSA/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->
