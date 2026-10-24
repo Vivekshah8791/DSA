@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Vivekshah8791/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vivekshah8791/DSA/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Vivekshah8791/DSA/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Vivekshah8791/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Vivekshah8791/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Vivekshah8791/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Vivekshah8791/DSA/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Vivekshah8791/DSA/tree/master/0526-beautiful-arrangement) |
