@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Vivekshah8791/DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekshah8791/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Vivekshah8791/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/Vivekshah8791/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Vivekshah8791/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekshah8791/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekshah8791/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivekshah8791/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Vivekshah8791/DSA/tree/master/1143-longest-common-subsequence) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekshah8791/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivekshah8791/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Vivekshah8791/DSA/tree/master/0460-lfu-cache) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vivekshah8791/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Vivekshah8791/DSA/tree/master/0997-find-the-town-judge) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekshah8791/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekshah8791/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Vivekshah8791/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Vivekshah8791/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Vivekshah8791/DSA/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Vivekshah8791/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekshah8791/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekshah8791/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -507,11 +511,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Vivekshah8791/DSA/tree/master/0526-beautiful-arrangement) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Vivekshah8791/DSA/tree/master/0078-subsets) |
 | [0526-beautiful-arrangement](https://github.com/Vivekshah8791/DSA/tree/master/0526-beautiful-arrangement) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1386-cinema-seat-allocation](https://github.com/Vivekshah8791/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vivekshah8791/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivekshah8791/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -589,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekshah8791/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivekshah8791/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vivekshah8791/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2029-stone-game-ix](https://github.com/Vivekshah8791/DSA/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivekshah8791/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
@@ -726,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Vivekshah8791/DSA/tree/master/0526-beautiful-arrangement) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Bracket Sequences
 |  |
 | ------- |
