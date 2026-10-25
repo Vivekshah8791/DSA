@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Vivekshah8791/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vivekshah8791/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Vivekshah8791/DSA/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/Vivekshah8791/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Vivekshah8791/DSA/tree/master/0229-majority-element-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vivekshah8791/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vivekshah8791/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivekshah8791/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Vivekshah8791/DSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vivekshah8791/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Vivekshah8791/DSA/tree/master/0299-bulls-and-cows) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vivekshah8791/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Vivekshah8791/DSA/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Vivekshah8791/DSA/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/Vivekshah8791/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Vivekshah8791/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekshah8791/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Vivekshah8791/DSA/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Vivekshah8791/DSA/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Vivekshah8791/DSA/tree/master/0526-beautiful-arrangement) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vivekshah8791/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vivekshah8791/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Vivekshah8791/DSA/tree/master/0212-word-search-ii) |
 ## Bucket Sort
 |  |
 | ------- |
