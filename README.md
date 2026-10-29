@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Vivekshah8791/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivekshah8791/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivekshah8791/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Vivekshah8791/DSA/tree/master/1400-construct-k-palindrome-strings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivekshah8791/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivekshah8791/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Vivekshah8791/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vivekshah8791/DSA/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vivekshah8791/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekshah8791/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vivekshah8791/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vivekshah8791/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1400-construct-k-palindrome-strings](https://github.com/Vivekshah8791/DSA/tree/master/1400-construct-k-palindrome-strings) |
 | [2029-stone-game-ix](https://github.com/Vivekshah8791/DSA/tree/master/2029-stone-game-ix) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivekshah8791/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
