@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekshah8791/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vivekshah8791/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Vivekshah8791/DSA/tree/master/1143-longest-common-subsequence) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vivekshah8791/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/1328-break-a-palindrome) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivekshah8791/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vivekshah8791/DSA/tree/master/0877-stone-game) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vivekshah8791/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vivekshah8791/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/Vivekshah8791/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Vivekshah8791/DSA/tree/master/1927-sum-game) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vivekshah8791/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Vivekshah8791/DSA/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vivekshah8791/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vivekshah8791/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1328-break-a-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/Vivekshah8791/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1400-construct-k-palindrome-strings](https://github.com/Vivekshah8791/DSA/tree/master/1400-construct-k-palindrome-strings) |
