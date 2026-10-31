@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivekshah8791/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Vivekshah8791/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3457-eat-pizzas](https://github.com/Vivekshah8791/DSA/tree/master/3457-eat-pizzas) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivekshah8791/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Vivekshah8791/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Vivekshah8791/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Vivekshah8791/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3457-eat-pizzas](https://github.com/Vivekshah8791/DSA/tree/master/3457-eat-pizzas) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivekshah8791/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivekshah8791/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vivekshah8791/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekshah8791/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Vivekshah8791/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3457-eat-pizzas](https://github.com/Vivekshah8791/DSA/tree/master/3457-eat-pizzas) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vivekshah8791/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vivekshah8791/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
