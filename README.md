@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekshah8791/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vivekshah8791/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/Vivekshah8791/DSA/tree/master/0502-ipo) |
 | [0526-beautiful-arrangement](https://github.com/Vivekshah8791/DSA/tree/master/0526-beautiful-arrangement) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vivekshah8791/DSA/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/Vivekshah8791/DSA/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Vivekshah8791/DSA/tree/master/0398-random-pick-index) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vivekshah8791/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Vivekshah8791/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekshah8791/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivekshah8791/DSA/tree/master/0836-rectangle-overlap) |
