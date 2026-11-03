@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivekshah8791/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Vivekshah8791/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Vivekshah8791/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3457-eat-pizzas](https://github.com/Vivekshah8791/DSA/tree/master/3457-eat-pizzas) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivekshah8791/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivekshah8791/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vivekshah8791/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekshah8791/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivekshah8791/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Vivekshah8791/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivekshah8791/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vivekshah8791/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivekshah8791/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Vivekshah8791/DSA/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Vivekshah8791/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vivekshah8791/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivekshah8791/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String Matching
