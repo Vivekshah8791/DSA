@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivekshah8791/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Vivekshah8791/DSA/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivekshah8791/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Vivekshah8791/DSA/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivekshah8791/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String Matching
 |  |
