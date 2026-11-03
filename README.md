@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vivekshah8791/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Vivekshah8791/DSA/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vivekshah8791/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Vivekshah8791/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivekshah8791/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivekshah8791/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vivekshah8791/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Vivekshah8791/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vivekshah8791/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivekshah8791/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Vivekshah8791/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivekshah8791/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Vivekshah8791/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Vivekshah8791/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Vivekshah8791/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Vivekshah8791/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Vivekshah8791/DSA/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Vivekshah8791/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivekshah8791/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String Matching
 |  |
