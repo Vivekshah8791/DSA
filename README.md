@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Vivekshah8791/DSA/tree/master/0229-majority-element-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Vivekshah8791/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Vivekshah8791/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vivekshah8791/DSA/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Vivekshah8791/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Vivekshah8791/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vivekshah8791/DSA/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Vivekshah8791/DSA/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Vivekshah8791/DSA/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-image-overlap](https://github.com/Vivekshah8791/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Vivekshah8791/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vivekshah8791/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vivekshah8791/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Vivekshah8791/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Vivekshah8791/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivekshah8791/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Vivekshah8791/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0563-binary-tree-tilt](https://github.com/Vivekshah8791/DSA/tree/master/0563-binary-tree-tilt) |
 | [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -403,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vivekshah8791/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vivekshah8791/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Vivekshah8791/DSA/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Vivekshah8791/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vivekshah8791/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/Vivekshah8791/DSA/tree/master/3620-network-recovery-pathways) |
@@ -424,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vivekshah8791/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Vivekshah8791/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekshah8791/DSA/tree/master/0213-house-robber-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/Vivekshah8791/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekshah8791/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -757,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vivekshah8791/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Vivekshah8791/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vivekshah8791/DSA/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Minimax
 |  |
 | ------- |
@@ -981,5 +989,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Vivekshah8791/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
