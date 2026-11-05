@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Vivekshah8791/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Vivekshah8791/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/Vivekshah8791/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Vivekshah8791/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Vivekshah8791/DSA/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/Vivekshah8791/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekshah8791/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Vivekshah8791/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Vivekshah8791/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Vivekshah8791/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/Vivekshah8791/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Vivekshah8791/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vivekshah8791/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Vivekshah8791/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0563-binary-tree-tilt](https://github.com/Vivekshah8791/DSA/tree/master/0563-binary-tree-tilt) |
+| [0684-redundant-connection](https://github.com/Vivekshah8791/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Vivekshah8791/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vivekshah8791/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Vivekshah8791/DSA/tree/master/0797-all-paths-from-source-to-target) |
