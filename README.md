@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Vivekshah8791/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Vivekshah8791/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vivekshah8791/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2747-count-zero-request-servers](https://github.com/Vivekshah8791/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivekshah8791/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vivekshah8791/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vivekshah8791/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2747-count-zero-request-servers](https://github.com/Vivekshah8791/DSA/tree/master/2747-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vivekshah8791/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivekshah8791/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Vivekshah8791/DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vivekshah8791/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivekshah8791/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vivekshah8791/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Vivekshah8791/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Vivekshah8791/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2747-count-zero-request-servers](https://github.com/Vivekshah8791/DSA/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Vivekshah8791/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3457-eat-pizzas](https://github.com/Vivekshah8791/DSA/tree/master/3457-eat-pizzas) |
