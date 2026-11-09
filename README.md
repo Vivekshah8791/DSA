@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Vivekshah8791/DSA/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/Vivekshah8791/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Vivekshah8791/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Vivekshah8791/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekshah8791/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivekshah8791/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/Vivekshah8791/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/Vivekshah8791/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vivekshah8791/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekshah8791/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Vivekshah8791/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekshah8791/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Vivekshah8791/DSA/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/Vivekshah8791/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vivekshah8791/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekshah8791/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Vivekshah8791/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vivekshah8791/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Vivekshah8791/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/Vivekshah8791/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vivekshah8791/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Vivekshah8791/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vivekshah8791/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/Vivekshah8791/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Vivekshah8791/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vivekshah8791/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Vivekshah8791/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/Vivekshah8791/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Vivekshah8791/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vivekshah8791/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Vivekshah8791/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/Vivekshah8791/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -705,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vivekshah8791/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vivekshah8791/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Vivekshah8791/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1267-count-servers-that-communicate](https://github.com/Vivekshah8791/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1400-construct-k-palindrome-strings](https://github.com/Vivekshah8791/DSA/tree/master/1400-construct-k-palindrome-strings) |
 | [2029-stone-game-ix](https://github.com/Vivekshah8791/DSA/tree/master/2029-stone-game-ix) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
