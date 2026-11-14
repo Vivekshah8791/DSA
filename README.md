@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Vivekshah8791/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vivekshah8791/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3457-eat-pizzas](https://github.com/Vivekshah8791/DSA/tree/master/3457-eat-pizzas) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vivekshah8791/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vivekshah8791/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivekshah8791/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivekshah8791/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Vivekshah8791/DSA/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vivekshah8791/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vivekshah8791/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivekshah8791/DSA/tree/master/3904-smallest-stable-index-ii) |
