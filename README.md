@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Vivekshah8791/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/Vivekshah8791/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivekshah8791/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vivekshah8791/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Vivekshah8791/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vivekshah8791/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivekshah8791/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Vivekshah8791/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vivekshah8791/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vivekshah8791/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivekshah8791/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vivekshah8791/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Vivekshah8791/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vivekshah8791/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vivekshah8791/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Vivekshah8791/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Vivekshah8791/DSA/tree/master/1927-sum-game) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vivekshah8791/DSA/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vivekshah8791/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Vivekshah8791/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vivekshah8791/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivekshah8791/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Vivekshah8791/DSA/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
