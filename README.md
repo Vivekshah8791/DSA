@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vivekshah8791/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Vivekshah8791/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Vivekshah8791/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vivekshah8791/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vivekshah8791/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2747-count-zero-request-servers](https://github.com/Vivekshah8791/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivekshah8791/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vivekshah8791/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Vivekshah8791/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Vivekshah8791/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vivekshah8791/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Vivekshah8791/DSA/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivekshah8791/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Vivekshah8791/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Vivekshah8791/DSA/tree/master/2029-stone-game-ix) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Vivekshah8791/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vivekshah8791/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vivekshah8791/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vivekshah8791/DSA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Vivekshah8791/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivekshah8791/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
