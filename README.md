@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vivekshah8791/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Vivekshah8791/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Vivekshah8791/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vivekshah8791/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vivekshah8791/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivekshah8791/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vivekshah8791/DSA/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Vivekshah8791/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vivekshah8791/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Vivekshah8791/DSA/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -946,10 +949,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Vivekshah8791/DSA/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -1079,4 +1084,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Vivekshah8791/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vivekshah8791/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
